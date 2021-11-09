@@ -45,7 +45,7 @@ $ lsof -i -n -P
 
 Kill signal:
 ```sh
-kill -9 Pid
+$ kill -9 Pid
 ```
 
 Pid of `elos`:
